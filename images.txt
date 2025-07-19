@@ -1,5 +1,6 @@
 nginx
 #支持私库
 jc21/nginx-proxy-manager:2.12.6
+lyswhut/lx-music-sync-server:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
