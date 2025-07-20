@@ -4,5 +4,6 @@ jc21/nginx-proxy-manager:2.12.6
 lyswhut/lx-music-sync-server:latest
 postgres:17.5-alpine
 linuxserver/code-server:4.101.2
+joyqi/typecho:1.2.1-php8.0-apache
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
