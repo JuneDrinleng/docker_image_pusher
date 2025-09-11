@@ -7,5 +7,6 @@ linuxserver/code-server:4.101.2
 joyqi/typecho:1.2.1-php8.0-apache
 dpage/pgadmin4:9.5
 ghcr.io/umami-software/umami:postgresql-v2.19.0
+1panel/openresty:1.27.1.2-2-3-focal
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
